@@ -1,0 +1,17 @@
+Hair_Band 1 900
+Traditional_Batura 1 1750
+Sony_Bravia 1 28500
+Mini_Robot 2 1800
+Kitchen_Set 1 1300
+FCB_Jersey 3 2640
+Football_Shoe 1 13000
+Pixel_3 2 180000
+Xiaomi_Note_3 1 13000
+Acer_Nitro_5 1 75000
+HP_Pavilion_14Q 1 62500
+UCL_Ball 1 1500
+FCB_Jersey 1 880
+Fomal_Belt 1 2400
+Black_Cap 2 1000
+Brush-Set 1 900
+Vanity_Mirror 1 600
